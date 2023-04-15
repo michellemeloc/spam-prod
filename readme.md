@@ -1,13 +1,13 @@
-# Detecton de Spam em mensagens SMS
+# Detecção de Spam em mensagens SMS
 
 A detecção de spam por SMS é importante porque protege os usuários finais de links maliciosos e fraudes, economiza tempo e dinheiro, melhora a qualidade do serviço e evita a sobrecarga de rede. Isso garante que apenas mensagens legítimas e relevantes sejam entregues, melhorando a experiência do usuário e a satisfação com o serviço.
 
-A versão produtiva da solução pode ser acessada em [[SPAM APP](https://detection-spam.herokuapp.com/)].
+A versão produtiva da solução pode ser acessada em [[SPAM WEB](https://spam-prod-michelle.herokuapp.com/)].
 
 
 ## Forma de uso
 
-Para usar a solução na versão web, basta navegar até [[HEROKU APP](https://detection-spam.herokuapp.com/)]. Insira uma mensagem de texto e clique em "Predict". O aplicativo retornará uma classificação de "spam" ou "ham" junto com a probabilidade da previsão.
+Para usar a solução na versão web, basta navegar até [[SPAM WEB](https://spam-prod-michelle.herokuapp.com/)]. Insira uma mensagem de texto e clique em "Predict". O aplicativo retornará uma classificação de "spam" ou "ham" junto com a probabilidade da previsão.
 
 
 

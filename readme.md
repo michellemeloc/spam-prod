@@ -10,6 +10,10 @@ A versão produtiva da solução pode ser acessada em [[SPAM WEB](https://spam-p
 Para usar a solução na versão web, basta navegar até [[SPAM WEB](https://spam-prod-michelle.herokuapp.com/)]. Insira uma mensagem de texto e clique em "Predict". O aplicativo retornará uma classificação de "spam" ou "ham" junto com a probabilidade da previsão.
 
 
+## Equipe
+- Michelle Cavalcante
+- Thales Pomari
+
 
 ## Tecnologias
 
